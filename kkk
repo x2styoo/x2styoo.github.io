@@ -1,0 +1,6 @@
+POST /registrar
+
+{
+  "enrollId": "admin",
+  "enrollSecret": "Xurw3yU9zI0l"
+}
